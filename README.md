@@ -1,7 +1,7 @@
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-design-do-projeto">Design</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-design-do-projeto">Design do Projeto</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <h1>NLW6 - Trilha Origin</h1>
