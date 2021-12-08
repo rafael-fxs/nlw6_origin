@@ -6,15 +6,15 @@
 
 <h1>NLW6 - Trilha Origin</h1>
 
-[![locagames](https://user-images.githubusercontent.com/5641578/145262861-c277eeaa-4c90-4497-8e30-18cffd83ec76.png)](https://rafael-fxs.github.io/nlw_originsix/)
-Você pode visualizar o projeto final [aqui](https://rafael-fxs.github.io/nlw_originsix/).
+[![locagames](https://user-images.githubusercontent.com/5641578/145262861-c277eeaa-4c90-4497-8e30-18cffd83ec76.png)](https://rafael-fxs.github.io/nlw6_origin/)
+Você pode visualizar o projeto final [aqui](https://rafael-fxs.github.io/nlw6_origin/).
 ## 💻 Sobre
 
 ### Projeto desenvolvido durante a Next Level Week #06 - Mission Origin, da Rocketseat. 
 
 Durante a aula foi desenvolvida uma página institucional no formato One Page para um salão de beleza [(BeautySalon)](https://www.notion.so/Material-para-as-aulas-62a9d83b24244526ae48486f5e5ebefc). Ela é responsiva para diferentes tamanhos de tela e possui animações para fazer surgir gradualmente cada section no decorrer do scroll. Também é organizada e de fácil customização.
 Após o termino foi proposto alguns desafios como: adaptação para um outro serviço e resposividade para tablets.
-Então realizei a devida intervenção para uma loja fictícia de Aluguel de jogos [(LocaGames)](https://rafael-fxs.github.io/nlw_originsix/)
+Então realizei a devida intervenção para uma loja fictícia de Aluguel de jogos [(LocaGames)](https://rafael-fxs.github.io/nlw6_origin/)
 
 ## 🚀 Tecnologias
 
@@ -39,6 +39,6 @@ Então realizei a devida intervenção para uma loja fictícia de Aluguel de jog
 
 Você pode acessar os seguintes layouts:
 - [Original (FIGMA)](https://www.figma.com/community/file/1009807319507822993/Origin-Six)
-- [Adaptado (Versão Atual)](https://rafael-fxs.github.io/nlw_originsix/)
+- [Adaptado (Versão Atual)](https://rafael-fxs.github.io/nlw6_origin/)
 
 Desenvolvido por <b>Rafael Felipe 🗸</b>
