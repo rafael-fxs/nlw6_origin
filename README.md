@@ -6,7 +6,7 @@
 
 <h1>NLW6 - Trilha Origin</h1>
 
-![locagames](https://user-images.githubusercontent.com/5641578/145262861-c277eeaa-4c90-4497-8e30-18cffd83ec76.png)
+[![locagames](https://user-images.githubusercontent.com/5641578/145262861-c277eeaa-4c90-4497-8e30-18cffd83ec76.png)](https://rafael-fxs.github.io/nlw_originsix/)
 Você pode visualizar o projeto final [aqui](https://rafael-fxs.github.io/nlw_originsix/).
 ## 💻 Sobre
 
