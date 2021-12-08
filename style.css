@@ -733,6 +733,7 @@ footer .social a:hover {
     font-size: 1.7rem;
   }
 
+  /* home */
   #home .image img {
     padding: 0 5rem;
   }
@@ -743,6 +744,7 @@ footer .social a:hover {
     margin-right: auto;
   }
 
+  /* services */
   #services header {
     text-align: center;
   }
@@ -756,6 +758,7 @@ footer .social a:hover {
     grid-template-columns: 1fr 1fr;
   }
 
+  /* catalog */
   #catalog header {
     text-align: center;
   }
@@ -764,10 +767,12 @@ footer .social a:hover {
     grid-template-columns: 1fr 1fr 1fr;
   }
 
+  /* testimonials */
   #testimonials header {
     text-align: center;
   }
 
+  /* about */
   #about .title {
     text-align: center;
   }
