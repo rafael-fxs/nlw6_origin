@@ -28,7 +28,7 @@ Então realizei a devida intervenção para uma loja fictícia de Aluguel de jog
 
 + [Google Fonts](https://fonts.google.com/)
 + [SwipeJS](https://github.com/nolimits4web/Swiper)
-+ [ScrollRevel](https://scrollrevealjs.org)
++ [ScrollReveal](https://scrollrevealjs.org)
 
 ### Utilitários
 
@@ -38,7 +38,7 @@ Então realizei a devida intervenção para uma loja fictícia de Aluguel de jog
 ## 🖌️ Design do Projeto
 
 Você pode acessar os seguintes layouts:
-- [Original (FIGMA)](https://www.figma.com/community/file/1009807319507822993/Origin-Six)
+- [Original (Figma)](https://www.figma.com/community/file/1009807319507822993/Origin-Six)
 - [Adaptado (Versão Atual)](https://rafael-fxs.github.io/nlw6_origin/)
 
 Desenvolvido por <b>Rafael Felipe 🗸</b>
